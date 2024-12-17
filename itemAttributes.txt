@@ -1,0 +1,3 @@
+1|Magic Wand|15|Weapon|5
+2|Special Sword|25|Weapon|10
+3|Health Potion|0|Potion|2

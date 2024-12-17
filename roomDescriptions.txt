@@ -1,0 +1,4 @@
+1|Dungeon Room(Start Room)|The room is dark. You can barely see. There are no creatures around. There are doors in the right, and bottom of the room.
+2|Sword Room|A room filled with ancient weapons, some covered in dust.
+3|Goblin Room|The air is heavy with the stench of goblins. A menacing goblin snarls at you, ready to attack at any moment.
+4|End Room|The final room with a large golden door. This appears to be the final challenge.
