@@ -1,4 +1,4 @@
-# Ceng-209-Game-Homework
+# Ceng-209-Game-Porject
 My project is a, a text-based adventure game where the player explores rooms, collects items, fights creatures. Navigate through interconnected rooms, gather resources, and defeat all creatures to win the game.
 ## Features
 1. **Room Exploration**: 
