@@ -1,5 +1,5 @@
 # Ceng-209-Game-Homework
-My homework is a, a text-based adventure game where the player explores rooms, collects items, fights creatures. Navigate through interconnected rooms, gather resources, and defeat all creatures to win the game.
+My project is a, a text-based adventure game where the player explores rooms, collects items, fights creatures. Navigate through interconnected rooms, gather resources, and defeat all creatures to win the game.
 ## Features
 1. **Room Exploration**: 
    - Move between rooms in four directions: **up, down, left, and right**.
